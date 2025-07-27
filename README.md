@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Julian Blanco
+# 👋 Hello, I'm Julian Blanco
 
 🎯 **Aspiring Software Engineer | Backend Developer | Game Developer**  
 💻 Currently a Data Analyst @ Harris and Harris  
