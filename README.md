@@ -21,8 +21,7 @@
 - 🔧 `springboot-bookstore`: Full CRUD backend API with validation, Swagger docs, and H2 database.
 - 🎮 `deep-cover-rpg`: A cartel-themed third-person action RPG built in Unreal Engine 5.5.1.
 - 📈 `fraud-detection-system` (coming soon): Real-time data pipeline project for detecting suspicious activity.
-
-🕹️ I also enjoy building games and exploring creative mechanics using Unreal Engine.
+- 🕹️ I also enjoy building games and exploring creative mechanics using Unreal Engine and building my own engines!
 
 ---
 
