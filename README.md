@@ -1,10 +1,10 @@
 👋 Hello, I’m Julian Blanco!
 
-🎯 **Software Engineer | Java Developer | Backend & Full-Stack Developer**
-💻 **Currently a Java Developer @ Fisher Printing**
-🎓 **M.S. in Computer Science — Southern New Hampshire University**
-📚 **B.S. in Computer Science — SNHU | Java Backend Certificate — Kenzie Academy**
-🚀 **Passionate about building reliable backend systems, developing enterprise applications, and creating immersive gaming experiences.**
+**🎯 Software Engineer | Java Developer | Backend & Full-Stack Developer
+💻 Currently a Java Developer @ Fisher Printing
+🎓 M.S. in Computer Science — Southern New Hampshire University
+📚 B.S. in Computer Science — SNHU | Java Backend Certificate — Kenzie Academy
+🚀 Passionate about building reliable backend systems, developing enterprise applications, and creating immersive gaming experiences.**
 ---
 
 ## 🛠 Tech Stack
