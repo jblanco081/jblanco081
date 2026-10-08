@@ -1,10 +1,10 @@
-# 👋 Hello, I'm Julian Blanco
+#👋 Hello, I’m Julian Blanco!
 
-🎯 **Aspiring Software Engineer | Backend Developer | Game Developer**  
-💻 Currently a Data Analyst @ Harris and Harris  
-🎓 Pursuing my Master's in Computer Science @ SNHU  
-📚 BS in CS @ SNHU  | Java Backend Cert @ Kenzie Academy
-
+🎯 Software Engineer | Java Developer | Backend & Full-Stack Developer
+💻 Currently a Java Developer @ Fisher Printing
+🎓 M.S. in Computer Science — Southern New Hampshire University
+📚 B.S. in Computer Science — SNHU | Java Backend Certificate — Kenzie Academy
+🚀 Passionate about building reliable backend systems, developing enterprise applications, and creating immersive gaming experiences.
 ---
 
 ## 🛠 Tech Stack
